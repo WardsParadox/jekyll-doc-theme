@@ -4,8 +4,8 @@ email: your-email@domain.com
 description: >
   MunkiReport-PHP Documentation
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: https://wardsparadox.github.io/munkireport-docs # the base hostname & protocol for your site
+baseurl: "/munkireport-docs/" # the subpath of your site, e.g. /blog/
+url: https://wardsparadox.github.io/munkireport-docs/ # the base hostname & protocol for your site
 git_address: https://github.com/wardsparadox/munkireport-docs
 git_edit_address: https://github.com/munkireport/munkireport-php
 
@@ -21,6 +21,7 @@ gems:
   - jekyll-redirect-from
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-admin
 
 exclude:
   - Gemfile
