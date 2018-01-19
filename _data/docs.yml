@@ -1,11 +1,19 @@
 - title: Setup
   docs:
-  - serversetup
-  - clientsetup
-  - quickdemo
-  - quickdemov3
-  - docker
+    - serversetup
+    - clientsetup
+    - quickdemo
+    - quickdemov3
+    - docker
+
+- title: MunkiReport Configuration
+  docs:
+    - serverconfiguration
 
 - title: Upgrade
   docs:
-  - autopkgformunkireport
+    - autopkgformunkireport
+
+- title: Miscellaneous
+  docs:
+      - ytreportingwithmunkireport
