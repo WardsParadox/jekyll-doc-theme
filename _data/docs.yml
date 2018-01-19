@@ -1,11 +1,11 @@
-- title: Getting Started
+- title: Setup
   docs:
-  - home
-  - themes
-  - customization
+  - serversetup
+  - clientsetup
+  - quickdemo
+  - quickdemov3
+  - docker
 
-- title: Examples
+- title: Upgrade
   docs:
-  - cheatsheet
-  - font-awesome
-  - bootstrap
+  - autopkgformunkireport
