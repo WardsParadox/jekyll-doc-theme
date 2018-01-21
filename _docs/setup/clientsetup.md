@@ -1,6 +1,6 @@
 ---
 title: "Client Setup"
-permalink: "/docs/clientsetup/"
+permalink: "/docs/setup/clientsetup/"
 ---
 Munkireport is versatile in how you are able to add client machines to the reporting server. The manual option is used mostly for testing; the next method is the recommended way to distribute the setup to client machines.
 
@@ -63,12 +63,12 @@ You can import this package into munki which will pick up the new version number
 
 ### AutoPkg
 
-There is also an AutoPkg recipe for creating munkireport packages, you can read more on how to setup those on [AutoPkg for MunkiReport](../autopkgformunkireport).
+There is also an AutoPkg recipe for creating munkireport packages, you can read more on how to setup those on [AutoPkg for MunkiReport](../upgrading/autopkgformunkireport).
 
 
 ### Advanced client setup
 
-When Munkireport is installed on the client, 3 directories are generated:
+When MunkiReport is installed on the client, 3 directories are generated:
 
 1. `preflight.d` - this directory is used by munkireport to run scripts on preflight, it contains at least `submit.preflight`. Scripts that exit with a non-zero status will not abort the run.
 3. `preflight_abort.d` - this directory is empty and can be used for additional scripts that check if managedsoftwareupdate should run. Scripts that exit with a non-zero status will abort the run.

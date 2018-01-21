@@ -1,15 +1,23 @@
 - title: Setup
   docs:
-    - serversetup
-    - clientsetup
-    - quickdemo
-    - quickdemov3
-    - docker
+    - setup/serversetup
+    - setup/clientsetup
+    - setup/quickdemo
+    - setup/quickdemov3
+    - setup/docker
 
 - title: MunkiReport Configuration
   docs:
-    - serverconfiguration
-
+    - configuration/serverconfiguration
+    - configuration/authentication
+    - configuration/authorizationrolesgroups
+    - configuration/businessunits
+    - configuration/machinegroups
+    - configuration/modelsviewscontrollers
+    - configuration/samlauthentication
+- title: Modules
+  docs:
+    - modules/detectx
 - title: Upgrade
   docs:
     - autopkgformunkireport

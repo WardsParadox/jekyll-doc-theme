@@ -1,6 +1,6 @@
 ---
 title: "Server Setup"
-permalink: "/docs/serversetup/"
+permalink: "/docs/setup/serversetup/"
 ---
 
 Setup

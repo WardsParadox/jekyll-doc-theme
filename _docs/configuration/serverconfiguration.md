@@ -1,6 +1,6 @@
 ---
 title: "Server Configuration"
-permalink: "/docs/serverconfiguration/"
+permalink: "/docs/configuration/serverconfiguration/"
 ---
 Slightly modified from the original source: `config_default.php`
 
