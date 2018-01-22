@@ -40,8 +40,8 @@ Paste the resulting `$conf['modules'] = array(...);` in your config.php file. Re
 
 Descriptions of the [[Modules]].
 
-Advanced server setup
----
+## Advanced server setup
+___
 
 ### Running MunkiReport from a subdir
 
