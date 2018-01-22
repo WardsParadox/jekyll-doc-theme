@@ -3,9 +3,6 @@ title: "Server Setup"
 permalink: "/docs/setup/serversetup/"
 ---
 
-Setup
-=====
-
 First setup the server - the clients use the server to pull down the installation scripts.
 
 
