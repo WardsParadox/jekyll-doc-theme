@@ -8,4 +8,4 @@ Munkireport has a couple of authentication mechanisms built-in:
 * Config file authentication
 * LDAP authentication
 * AD authentication
-* [[SAML authentication]]
+* [SAML authentication](../samlauthentication.md)

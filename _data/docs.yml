@@ -9,15 +9,13 @@
 - title: MunkiReport Configuration
   docs:
     - configuration/serverconfiguration
+    - configuration/modulelist
     - configuration/authentication
     - configuration/authorizationrolesgroups
     - configuration/businessunits
     - configuration/machinegroups
     - configuration/modelsviewscontrollers
     - configuration/samlauthentication
-- title: Modules
-  docs:
-    - modules/detectx
 - title: Upgrade
   docs:
     - autopkgformunkireport
