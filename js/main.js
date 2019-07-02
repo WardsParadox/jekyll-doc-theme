@@ -30,5 +30,10 @@ $(function() {
     $('#markdown-content-container table').addClass('table');
     $('#markdown-content-container img').addClass('img-responsive');
 
+    // Auto Headings Links
+    $('.h2,h3,h4,h5,h6').filter('[id]').each(function () {
+    $(this).html('<a href="#'+$(this).attr('id')+'">' + $(this).text() + '</a>');
+    });
+
 
 });
